@@ -1,6 +1,6 @@
 # CurseZip: Your Ultimate CurseForge Plugin Archiver
 
-![CurseZip Logo](https://raw.githubusercontent.com/your-repo/cursezip/main/assets/cursezip_logo.png) <!-- Placeholder for a cool logo -->
+![CurseZip Logo](assets/cursezip_logo_text.png)
 
 CurseZip is a powerful and flexible command-line tool designed to streamline the packaging of your CurseForge plugin directories into clean, optimized archives. Say goodbye to unwanted `.git` folders, `.DS_Store` files, and other unnecessary clutter in your releases!
 
