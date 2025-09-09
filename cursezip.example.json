@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "another_temp_file.tmp",
+    "**/testdata/",
+    "*.bak"
+  ]
+}
